@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LetsPlant</string>
+    <string name="app_register">Įveskite duomenis</string>
+    <string name="popup">pop up</string>
+    <string name="logo">logo</string>
+    <string name="atgal">Back</string>
+    <string name="ideti">Put in the calendar</string>
+    <string name="ismesti">Remove from the list</string>
+    <string name="notes2">My notes</string>
+    <string name="darbai">JOBS</string>
+    <string name="dienos">Days</string>
+    <string name="darbai3">Jobs</string>
+    <string name="darbai2">JOBS</string>
+    <string name="calendar">CALENDAR</string>
+    <string name="month">Month</string>
+    <string name="calendar2">CALENDAR</string>
+    <string name="name">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="choose">Select your way</string>
+    <string name="sodininkas">Fruiter</string>
+    <string name="gelininkas">Florist</string>
+    <string name="darzininkas">Gardener</string>
+    <string name="email">Email</string>
+    <string name="title_activity_kalendorius">ActivityKalendorius</string>
+    <string name="title_activity_popup">ActivityPopup</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
