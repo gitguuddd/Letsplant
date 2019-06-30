@@ -32,7 +32,7 @@ During the development of this app I was responsible for managing and linking th
 ---
 ## Changelog
 
-[V0.5](https://github.com/gitguuddd/Letsplant/releases/tag/v0.5)
+[V0.5](https://github.com/gitguuddd/Letsplant/releases/tag/v0.5) - 2019-07-01
 
 **Added**
 - Initial files (app,PHP)
